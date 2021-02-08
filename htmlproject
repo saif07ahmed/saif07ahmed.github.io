@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>FINAL PROJECT</title>
+    </head>
+    
+<header>
+    <h1 id="logo">Saif Ali Ahmed</h1>
+
+</header>
+
+<body>
+    <hr>
+    <nav>
+        <a href="#one">one</a>
+        <a href="#two">two</a>
+        <a href="#three">three</a>
+        <a href="#four">four</a>
+       </nav>
+
+<hr>
+    <section>
+        <h2>Favrioute Foods</h2>
+
+        <ul>
+            <li>Chicken</li>
+            <li>Mutton</li>
+            <li>fish</li>
+            <li>momos</li>
+        </ul>
+        </section>
+
+    <section>
+        <h2>Achievements</h2>
+
+        <label for="progress">progress in this course(100%)</label>
+        <progress id="progress" value="100" max="100">100%</progress>
+        <br>
+        <label for="progress2">progress in specialization capstone(20%)</label>
+        <progress id="progress2" value="20" max="100">20%</progress>
+         <br>
+         <label for="progress3">progress in Life goals(30%)</label>
+        <progress id="progress3" value="30" max="100">30%</progress>
+        
+    </section>
+
+    <section>
+        <h2>More About Me</h2>
+
+        <details>
+            <summary>My Childhood</summary>
+            <p>I was born and brought up in New Delhi. I wish to live here life long.</p>
+        </details>
+    </section>
+
+    
+<section>
+    <h2>TABLE :<br></h2>
+ <table border="2">
+     
+<tr><td>one</td><td>two</td><td>three</td></tr>
+<tr><td>four</td><td>five</td><td>six</td></tr>
+<tr><td>seven</td><td>eight</td><td>nine</td></tr>
+
+</table>
+</section>
+
+
+
+    <footer>
+        <figure>
+            <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WDFE Logo">
+        </figure>
+        <p>This page was created by Saif ali Ahmed &amp; Colleen van Lent. To learn more about web design,visit <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>.</p>
+        <a href =#logo>back to top</a>
+    </footer>
+
+</body>
+</html>
